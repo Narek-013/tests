@@ -1,0 +1,28 @@
+
+.parent{
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  row-gap: 18px;
+  background-color: black;
+  color: #00ff00;
+  font-family: monospace;
+  height: 100dvh;
+  align-items: center;
+}
+
+h1{
+    width: 100%;
+}
+
+.text{
+  width: 100%;
+  max-width: 310px;
+  /* text-align: center; */
+  margin-top: 8px;
+  line-height: 1.4;
+  font-size: 15px;
+  letter-spacing: 1.9px;
+}
